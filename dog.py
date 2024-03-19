@@ -5,3 +5,5 @@ print('woof')
 
 def bark():
     print('Ruff')
+
+print('hello')
